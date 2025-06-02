@@ -11,9 +11,9 @@ Design a schedule system for a healthcare facility that coordinates doctors and 
 ## Question 3: 
 Design an online platform for multiplayer games. Consider how to organize game sessions, match players with a skill levels, keep all players updated with the latest game progress , enable player interactions like chatting or team coordination and ensure fair game player by implementing measures against cheating or exploiting
 
-| Number | Group Members |
-| --- | --- |
+ | Number | Group Members |
+ | --- | --- |
 
-|`1. `| Habtamnesh Marye |
-|`2.` | Fana Bezabih |
-|`3.` | Carol Kembo |
+ |`1. `| Habtamnesh Marye |
+ |`2.` | Fana Bezabih |
+ |`3.` | Carol Kembo |
