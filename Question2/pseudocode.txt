@@ -1,0 +1,23 @@
+Input
+
+Doctor names and date
+Patient details (name, medical need, preferred time,date)
+Appointment duration
+Emergency cases (normal case,emergency case)    
+
+
+Process
+State a structure that holds the information of a doctor and a patient.
+Start a method to check whether the case is emergency or a normal case.
+Create an list to include all available doctors
+If the patient case is a normal case,check whether the doctor is available at that specific date and time with the patient's preferable date and time.
+If the doctor is available, then insert the doctor to the available doctors list
+Display which doctor meets the desired appointment date and time
+Otherwise,if it is an emergency case, check whether a doctor is available.
+Any doctor available joins the available doctors list and the first doctor in the list will be assigned. 
+In the case of no doctor available, convey a message of no doctor is available.
+
+
+output
+A string of whether the doctor or a message 
+
