@@ -13,7 +13,6 @@ Design an online platform for multiplayer games. Consider how to organize game s
 
  | Number | Group Members |
  | --- | --- |
-
  |`1. `| Habtamnesh Marye |
  |`2.` | Fana Bezabih |
  |`3.` | Carol Kembo |
