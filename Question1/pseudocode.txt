@@ -1,0 +1,19 @@
+Input   
+
+ Room number                                           
+ Guest details that includes name and check-in-dates
+
+Process 
+Create a subprogram that contains the room number and guest details 
+State an empty collection map to store the room reservation details
+LIst all the reserved rooms which is the room numbers
+Check out all the the reserved room if they match with the desired room number
+If the desired room number is not in the list of reserved rooms then assign the room number and the guest details to reserve a room for guests.
+Otherwise, the room is already reserved and can’t double reserve.
+Display the details of the room number, name and check-in-details.
+
+
+Output
+
+ Hashmap of room number,name and check-in-dates
+
