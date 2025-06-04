@@ -21,7 +21,7 @@ class Doctor(val name: String) {
     }
 }
 class Hospital {
-    private val doctors = listOf(Doctor("Smith"), Doctor("Johnson"))
+    private val doctors = listOf(Doctor("Abebe"), Doctor("John"))
     fun makeAppointment(patientName: String, time: String?, isEmergency: Boolean) {
         if (isEmergency) {
             // Automatically assign the first available doctor
