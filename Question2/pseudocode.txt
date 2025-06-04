@@ -1,6 +1,6 @@
 Input
 
-Doctor names and date
+Doctor names and available date
 Patient details (name, medical need, preferred time,date)
 Appointment duration
 Emergency cases (normal case,emergency case)    
