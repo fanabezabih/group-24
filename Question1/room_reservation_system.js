@@ -16,5 +16,5 @@ function reservation(roomNumber,guestDetails){
        
     }
 }
-const reserve=reservation(20,[{name:"Alia",checkInDetails:"02-03-05"}])
+const reserve=reservation(20,[{name:"Fana",checkInDetails:"02-03-05"}])
 console.log(reserve) 
